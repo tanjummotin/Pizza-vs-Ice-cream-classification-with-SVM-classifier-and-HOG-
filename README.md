@@ -2,11 +2,14 @@
 # Image Classification with SVM using HOG Features
 
 ## Objective
-The objective of this project is to perform binary classification using Support Vector Machines (SVM) with an image dataset. The dataset consists of images of ice cream and pizza, and the goal is to train an SVM model to accurately classify new images into these two categories.
+The objective of this project is to perform binary classification using Support Vector Machines (SVM) with an image dataset.
 
 ## Tools and Language
 - Google Colab
 - Python
+## Dataset
+ The dataset consists of images of ice cream and pizza, and the goal is to train an SVM model to accurately classify new images into these two categories.
+ Dataset link-https://www.kaggle.com/datasets/hemendrasr/pizza-vs-ice-cream
 
 ## Description
 Image classification is a fundamental problem in the field of artificial intelligence and machine learning. It involves categorizing images into different predefined classes or categories. In this project, we utilize the SVM algorithm and Histogram of Oriented Gradients (HOG) features to train a model for image classification.
