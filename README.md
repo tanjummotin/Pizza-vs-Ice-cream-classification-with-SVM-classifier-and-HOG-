@@ -1,0 +1,1 @@
+# Pizza-vs-Ice-cream-classification-with-SVM-classifier-and-HOG-
